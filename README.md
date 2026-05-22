@@ -15,3 +15,5 @@ A única mudança foi adcionar a seção da <b>region</b> onde acontece o servi�
 </p>
 
 <img src="images/desafio-ec2-dio.gif" alt="Diagrama" width="500" />
+
+<h3>🧑🏾 Samuel Holanda</h3>
